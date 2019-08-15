@@ -1,0 +1,4 @@
+Dosyanın içine bir şeyler yazdık
+Naber Python
+Naber Java
+Naber C++
