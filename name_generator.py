@@ -1,9 +1,9 @@
 import random
 
-isim = ['Buket', 'Oğuzhan', 'Civciv', 'Deniz', 'Melisa', 'Barney']
-soyisim = ['İnce', 'Demir', 'Gece', 'Bulut', 'Yelken', 'Stinson']
+name = ['Buket', 'Oğuzhan', 'Civciv', 'Deniz', 'Melisa', 'Barney']
+lastname = ['İnce', 'Demir', 'Gece', 'Bulut', 'Yelken', 'Stinson']
 
-print(random.choice(isim) + " " + random.choice(soyisim))
+print(random.choice(name) + " " + random.choice(lastname))
 
 
 
